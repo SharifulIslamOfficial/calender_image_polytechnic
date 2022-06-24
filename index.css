@@ -1,0 +1,378 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    overflow: hidden;
+    width: 100%;
+    background-color: gainsboro;
+    border: 1px solid black;
+}
+marquee{
+    font-size: 30px;
+    color: red;
+    background-color: indigo;
+}
+                            /* HEAD */
+.head{
+    width: 100%;
+    height: 50%;
+    background-color:royalblue;
+}
+.head_one{
+    width: 30%;
+    height: 84%;
+}
+.head_one img{
+    width: 200px;
+    height: 150px;
+    margin: 20px 10px 5px 70px;
+}
+.head_one p{
+    font-size: 18px;
+    margin: 0px 20px 5px 30px;
+    text-align: center;
+}
+.main .head .head_one .date{
+    font-size: 30px;
+    background-color: red;
+    width: 100%;
+    color: gold;
+    font-style: bold;
+    float: left;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.main .head .head_two{
+    width: 230%;
+   margin: -220px 0px 0px 370px;
+   text-align: center; 
+   line-height: 75px;
+}
+.main .head .head_two h1{
+    font-size: 45px;
+    color: gold;
+    
+}
+.main .head .head_two h2{
+    font-size: 33px;
+    color: red;
+}
+.main .head .head_two h3{
+    font-size: 40px;
+    color: white;
+}
+                            /* BODY */
+.main .body{
+    width: 100%;
+    margin-top: 35px;
+}
+.main .body .body_one{
+    width: 31%;
+    border: 1px solid;
+    float: left;
+    background-color: green;
+}
+.main .body .body_one h1{
+
+}
+.main .body .body_one p{
+    
+}
+.main .body .body_three{
+   width: 31%;
+   float: left;
+   border: 1px solid; 
+   background-color: green;
+}
+.main .body .body_three h1{
+    
+}
+.main .body .body_three p{
+    
+}
+.main .body .body_two{
+    width: 38%;
+    height: 295%;
+    border: 1px solid;
+    float: left;
+    background-color:gray;
+    background-repeat: no-repeat;
+    background-size: 100% 295%;
+    background-image: url(./images/image\ polytechnic\ .jpg);
+}
+.main .body .body_two h2{
+   font-size: 50px;
+   color: red;
+   display: inline;
+   background-color: white;
+}
+.main .body .body_two p{
+    font-size: 25px;
+    color: green;
+    display: inline;
+    background-color: white;
+}
+.main .body .body_two .oooo{
+    width: 120px;
+    text-align: center;
+    background-color: white;
+    border: 2px solid red;
+    border: none;
+    border-radius: 50px;
+}
+.main .body .body_two h1{
+    font-size: 30px;
+    color: red;
+    margin-left: 125px;
+    margin-top: -100px;
+    background-color: blue;
+    overflow: hidden;
+}
+hr{
+    width: 150px;
+    float: right;
+    margin-right: 10px;
+}
+.main .body .body_two h3{
+    margin-top: 0px;
+  color: red;  
+  margin-right: 10px;
+  text-align: right;
+}
+.main .body .body_two h4{
+    color: whitesmoke;  
+    margin-right: 10px;
+    text-align: right;
+  }
+table{
+    margin: 5px auto;
+    width: 32%;
+    text-align: center;
+}
+table tr td{
+    width: 80px !important;
+    height: 60px;
+}
+.main .body .body_two h4{
+  color: white; 
+  text-align: right; 
+}
+.main .body .body_two .body_ABCDE{
+margin-top: 1700px;
+}
+.main .body .body_two .body_ABCDE .body_A{ 
+
+}
+.main .body .body_two .body_ABCDE .body_A h1{
+    margin: -100px 10px auto;
+    font-size: 27px;
+    height: 45px;
+    text-align: center;
+    padding: 5px;
+    background-color: blue;
+    border-radius: 30px;
+}
+.main .body .body_two .body_ABCDE .body_A p{
+   margin-left: 30px;
+   font-size: 25px;
+   padding: 11px;
+   border-radius: 30px;
+   margin-top: -20px; 
+}
+.main .body .body_two .body_ABCDE .body_B{
+    /* text-align: center; */
+}
+.main .body .body_two .body_ABCDE .body_B h2{
+    font-size: 28px;
+    background-color:purple;
+    padding: 8px;
+    display: inline;
+    margin-left: 20px;
+    margin-top: 20px;
+    line-height: 60px;
+    text-align: center;
+    border-radius: 30px;
+}
+.main .body .body_two .body_ABCDE .body_C{
+    
+}
+.main .body .body_two .body_ABCDE .body_C h2{
+     font-size: 25px; 
+     display: block;
+     border-radius: 30px;
+     margin: 5px 5px;
+     text-align: center;
+}
+.main .body .body_two .body_ABCDE .body_C h3{
+    text-align: center;
+    font-size: 25px;
+    margin: 10px 5px 2px 2px;
+    border-radius:30px;
+    padding: 8px;
+    width: 170px;
+    background-color: indigo;
+}
+#nine{
+    background-color: indigo;
+    color: red;
+    width: 450px;
+}
+.main .body .body_two .body_ABCDE .body_C h4{
+    text-align: center;
+    margin-top: -190px;
+    margin-left: 10px;
+    color: indigo;
+    font-size: 20px;
+}
+.main .body .body_two .body_ABCDE .body_D{
+    margin-top: -105px;
+    margin-left:0px;
+}
+.main .body .body_two .body_ABCDE .body_D h3{
+    text-align: center;
+    margin: 14px 10px 10px 305px;
+    font-size: 25px;
+    border-radius:30px;
+    padding: 7px;
+    width: 170px;
+    background-color: indigo; 
+}
+.main .body .body_two .body_ABCDE .body_E{
+    
+}
+.main .body .body_two .body_ABCDE .body_E h1{
+    font-size: 25px;
+    color: red;
+    background-color: white;
+    border-radius: 30px;
+    margin: 70px 10px auto;
+    text-align: center;
+}
+.main .body .body_two .body_ABCDE .body_E h2{
+    text-align: center;
+    margin: 20px 10px auto;
+    font-size: 20px;
+    color: seagreen;
+    border-radius: 30px;
+    padding: 10px;
+}
+.main .body .body_two .body_ABCDE .body_E h3{
+    /* text-align: center;
+    display: inline;
+    font-size: 22px;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    line-height: 50px;
+    padding: 6px;
+    height: 25px;
+    margin: 10px  5px auto;
+    border: 1px solid red;
+    background-color: indigo;
+    border-radius: 20px 30px; */
+}
+.body_ABCDE .body_E span h3{
+    display: inline;
+    font-size: 25px;
+    background-color: indigo;
+    border: 2px solid red;
+    text-align: center;
+    margin-left: 60px;
+    padding: 10px 15px;
+    border-radius: 20px 30px;
+}
+.body_ABCDE .body_E span h4{
+    display: inline;
+    font-size: 22px;
+    background-color: indigo;
+    border: 2px solid red;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px 30px;
+    margin: 10px 10px auto;
+}
+                            /* FOOTER */
+.footer{
+    
+}
+.footer .footer_one{
+    width:80%;
+    height: 180px;
+    margin-top: 5px;
+    background-color: blue;
+    border: 1px solid blue;
+}
+.footer .footer_one h1{
+    font-size: 31px;
+    margin: 0px 2px;
+    display: inline;
+}
+.footer .footer_one h2{
+    margin-left: 180px;
+    margin-top: -35px;
+    text-align: left;
+    font-size: 29px;
+}
+.footer .footer_two{
+    width: 20%;
+    float: right;
+    margin-top: -180px;
+    border: 1px solid red;
+    border: none;
+    background-color: red;
+}
+.footer .footer_two img{
+    width: 100%;
+    height: 30%;
+}
+.footer .footer_three{
+ background-color: red;
+ width: 100%;
+
+}
+.footer .footer_three .footer_number{
+    margin-left: 50px;
+    font-size: 20px;
+    text-align:left;
+}
+.footer .footer_three .footer_link{
+    text-align: right;
+    font-size: 32px;
+    word-spacing: 20px;
+    margin-right: 50px;
+    margin-top: -40px;
+}
+a{
+    text-decoration: none;
+}
+                            /* ID */
+th,td{
+    border: 1px solid;
+    width: 20px;
+}
+table{
+    border-right: 20px;
+    border-collapse:collapse;
+    border: 1px solid black;
+    width: 300px;
+}
+h1{
+    color: black;
+}
+#one{
+    text-align: right;
+    color: red;
+}
+#two{
+    text-align: right;
+    color: yellow;
+}
+#three p{
+    color: red;
+    text-align: left;
+}
+td{
+    font-size: 20px;
+}
